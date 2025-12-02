@@ -1,8 +1,12 @@
 ## Hi there! I am Ibrahim Nurudeen 👋
 
-I'm Ibrahim Nurudeen Shehu, a passionate web developer with over two years of experience in creating engaging, responsive, and aesthetically pleasing web solutions. Currently pursuing a Bachelor of Science degree in Computer Science, I specialize in building and maintaining clean-coded websites using technologies such as HTML, CSS, Bootstrap, JavaScript, React JS, Jasmine, PHP, SQL, and Git.
+I'm Ibrahim Nurudeen Shehu, a Frontend Developer and an AI Automation Engineer. A Bachelor of Science degree holder in Computer Science, I specialize in building and maintaining user-centric user interface using technologies such as HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React JS, Jasmine, ShadCn, MongoDB, Node.js, Express, PostgreSQL, PHP, MySQL, and Git.
 
-Driven by a constant desire to learn and improve, I constantly pursue opportunities which allow me to develop practical solutions that focus on user needs to resolve actual problems in the world. My approach combines technical skills with creativity and a detail-oriented mindset, allowing me to contribute effectively in both individual and team-based projects.
+Over the years, I have participated in training programmes with 3MTT Nigeria, where my team emerged as the third best in the Nasarawa State Virtual Hackathon. 
+
+I have participated in Tech4Dev's DFA 2.0 Challenge where I tried their .....
+
+I have also participated in Loubby AI x DivVerse Lab's AI Automation bootcamp, where I build a Customer flow Manager that saves 10 hours per week per user for a company by 
 
 I believe that technology, when used thoughtfully, can power innovation and improve lives. Whether collaborating in a team or working independently, I always strive to deliver results that exceed expectations.
 
