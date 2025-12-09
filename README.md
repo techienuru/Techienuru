@@ -1,26 +1,65 @@
 ## Hi there! I am Ibrahim Nurudeen 👋
 
-I'm Ibrahim Nurudeen Shehu, a Frontend Developer and an AI Automation Engineer. A Bachelor of Science degree holder in Computer Science, I specialize in building and maintaining user-centric user interface using technologies such as HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React JS, Jasmine, ShadCn, MongoDB, Node.js, Express, PostgreSQL, PHP, MySQL, and Git.
+I'm Ibrahim Nurudeen Shehu, a Frontend Developer and AI Automation Engineer. I hold a Bachelor of Science degree in Computer Science and specialise in building user-centric interfaces and automation solutions using HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Jasmine, ShadCn, MongoDB, Node.js, Express, PostgreSQL, PHP, MySQL, and Git.
 
-Over the years, I have participated in training programmes with 3MTT Nigeria, where my team emerged as the third best in the Nasarawa State Virtual Hackathon. 
+Over the years, I’ve taken part in hands-on training and hackathons. In 2025, I was a Cohort 3 fellow with 3MTT Nigeria, where my team placed 3rd in the Nasarawa State Virtual Hackathon by building JobBridge — a local marketplace for short micro-tasks.
 
-I have participated in Tech4Dev's DFA 2.0 Challenge where I tried their .....
+From April to July 2025, I participated in Tech4Dev’s DFA 2.0 Challenge and completed a proctored online exam with strict measures.
 
-I have also participated in Loubby AI x DivVerse Lab's AI Automation bootcamp, where I build a Customer flow Manager that saves 10 hours per week per user for a company by 
+From August to October 2025, I was a trainee in Loubby AI x DivVerse Lab's AI Automation bootcamp, where I built multiple automations. One highlight: a Customer Flow Manager that saves ~10 hours per week per user by collecting complaints from social channels (support email, X, complaint form) and forwarding them to a single complaint channel.
 
-I believe that technology, when used thoughtfully, can power innovation and improve lives. Whether collaborating in a team or working independently, I always strive to deliver results that exceed expectations.
+I am also an AI Automation store owner at [Autonoms](https://autonoms.ai/), building automations for businesses and individuals: Store: https://agents.autonoms.ai/store/68f8c05debadb900a3805831
 
-⚡  View my portfolio to observe the development through practical work and technical solutions which represent my dedication to technological growth and advancement.
+Currently, I work as a freelance Frontend Developer, and I serve as Team Lead for MSSN NSUK Chapter, building a site to support 1,000+ students at Nasarawa State University Keffi (NSUK).
+
+I believe thoughtfully used technology powers innovation and improves lives. Whether collaborating or working independently, I aim to deliver results that exceed expectations.
+
+⚡ View my portfolio to explore projects and technical solutions that reflect my commitment to growth and impact.
+
 
 ---
 
 ## What I Do
 
-💻 **Web Developer:** I have expertise in building websites which demonstrate high performance along with responsive design and clean code through HTML, CSS, Bootstrap, JavaScript, PHP, SQL and React.js construction. I focus on building user-friendly and functional web applications that deliver real value.
+💻 **Frontend Developer:** Build responsive, accessible React apps and Node/Express backends.
 
-🌐 **Tech Enthusiast:** I follow web development trends to constantly discover new tools along with frameworks which help me improve to enhance my skill set and build better, modern solutions.
+🤖 **AI Automation:** Design automation flows (LLMs, scraping, integrations) that reduce manual work and improve business processes.
 
-💼 **Open to Opportunities:** I'm actively seeking exciting roles, internships, or freelance projects where I can contribute my skills and grow as a developer. I bring dedication, attention to detail, and a passion for impactful web solutions.
+⚡ **Focus:** Clean code, good UX, and measurable impact — I value speed, reliability, and maintainability.
+
+🌱 **Continuous Learner:** I keep up with new tools and trends so I can apply the best solutions for real problems.
+
+💼 **Open to Opportunities:** Available for freelance work, internships, and team roles where I can apply frontend + automation skills.
+
+---
+
+## Skills & Tech
+**Frontend:** React.js, HTML, CSS, Bootstrap, Tailwind  
+**Backend / Fullstack:** Node.js, Express, MongoDB, REST APIs  
+**Databases:** MySQL, PostgreSQL, MongoDB 
+**AI & Automation:**  Zapier, n8n, Make, Airtable, Prompt engineering, OpenAI / Hugging Face integrations, automation scripts  
+**Tools:** Git, GitHub, , Vercel / Netlify / Render, Postman  
+**Other:**  Jasmine, Github Actions
+
+---
+
+## Projects & Highlights
+
+1. [JobBridge](https://autonoms.ai/) (3MTT Hackathon) — local micro-task marketplace (team project; 3rd place — Nasarawa State).
+
+2. Customer Flow Manager — automation that aggregates complaints across platforms and forwards to a single channel (saves ~10 hours/week per user).
+
+3. Autonoms Store — automations available for purchase. See the store link above.
+
+4. MSSN NSUK Website — team lead building a site for 1,000+ students.
+
+(See individual project READMEs for demos, screenshots, and setup instructions.)
+
+---
+
+## Try my work
+- ✅ Live demos: check project READMEs for links (most projects have a live URL or video).  
+- 🛠️ Want to run locally? I include simple commands in each project’s README — e.g. `npm install && npm start`.
 
 ---
 
@@ -37,6 +76,6 @@ I believe that technology, when used thoughtfully, can power innovation and impr
 
 ## Let's Collaborate
 
-🔍 I'm always open to meaningful collaborations and tech discussions. If you're interested in working together or sharing ideas, feel free to reach out. Let's build something great together!
+🔍 Interested in collaborating, hiring, or discussing tech ideas? Send me a message. I’d love to hear from you.
 
 ---
