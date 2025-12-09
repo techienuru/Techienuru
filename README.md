@@ -34,24 +34,24 @@ I believe thoughtfully used technology powers innovation and improves lives. Whe
 ---
 
 ## Skills & Tech
-**Frontend:** React.js, HTML, CSS, Bootstrap, Tailwind  
-**Backend / Fullstack:** Node.js, Express, MongoDB, REST APIs  
-**Databases:** MySQL, PostgreSQL, MongoDB 
-**AI & Automation:**  Zapier, n8n, Make, Airtable, Prompt engineering, OpenAI / Hugging Face integrations, automation scripts  
-**Tools:** Git, GitHub, , Vercel / Netlify / Render, Postman  
-**Other:**  Jasmine, Github Actions
+**Frontend:** React.js, HTML, CSS, Bootstrap, Tailwind.
+**Backend / Fullstack:** Node.js, Express, MongoDB, REST APIs.
+**Databases:** MySQL, PostgreSQL, MongoDB.
+**AI & Automation:**  Zapier, n8n, Make, Airtable, Prompt engineering, OpenAI / Hugging Face integrations, automation scripts.
+**Tools:** Git, GitHub, , Vercel / Netlify / Render, Postman.
+**Other:**  Jasmine, Github Actions.
 
 ---
 
 ## Projects & Highlights
 
-1. [JobBridge](https://autonoms.ai/) (3MTT Hackathon) — local micro-task marketplace (team project; 3rd place — Nasarawa State).
+1. [JobBridge](https://github.com/techienuru/JobBridge) (3MTT Hackathon) — local micro-task marketplace (team project; 3rd place — Nasarawa State).
 
-2. Customer Flow Manager — automation that aggregates complaints across platforms and forwards to a single channel (saves ~10 hours/week per user).
+2. [Customer Flow Manager](https://agents.autonoms.ai/store/68f8c05debadb900a3805831) — automation that aggregates complaints across platforms and forwards to a single channel (saves ~10 hours/week per user).
 
-3. Autonoms Store — automations available for purchase. See the store link above.
+3. [Autonoms Store](https://agents.autonoms.ai/store/68f8c05debadb900a3805831) — automations available for purchase. See the store link above.
 
-4. MSSN NSUK Website — team lead building a site for 1,000+ students.
+4. [MSSN NSUK Website](https://github.com/techienuru/MSSN) — team lead building a site for 1,000+ students.
 
 (See individual project READMEs for demos, screenshots, and setup instructions.)
 
