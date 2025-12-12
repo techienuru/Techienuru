@@ -1,8 +1,8 @@
 ## Hi there! I am Ibrahim Nurudeen 👋
 
-I'm Ibrahim Nurudeen Shehu, a Frontend Developer and AI Automation Engineer. I hold a Bachelor of Science degree in Computer Science and specialise in building user-centric interfaces and automation solutions using HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Jasmine, ShadCn, MongoDB, Node.js, Express, PostgreSQL, PHP, MySQL, and Git.
+I'm Ibrahim Nurudeen Shehu, a Frontend Developer and AI Automation Engineer. I hold a Bachelor of Science degree in Computer Science and specialise in building user-centric interfaces and automation solutions using HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Jasmine, ShadCn, MongoDB, Node.js, Express, PostgreSQL, PHP, MySQL, Git, n8n, Zapier, and Make.
 
-Over the years, I’ve taken part in hands-on training and hackathons. In 2025, I was a Cohort 3 fellow with 3MTT Nigeria, where my team placed 3rd in the Nasarawa State Virtual Hackathon by building JobBridge — a local marketplace for short micro-tasks.
+Over the years, I’ve taken part in hands-on trainings and hackathons. In 2025, I was a Cohort 3 fellow with 3MTT Nigeria, where my team placed 3rd in the Nasarawa State Virtual Hackathon by building JobBridge — a local marketplace for short micro-tasks.
 
 From April to July 2025, I participated in Tech4Dev’s DFA 2.0 Challenge and completed a proctored online exam with strict measures.
 
@@ -21,25 +21,31 @@ I believe thoughtfully used technology powers innovation and improves lives. Whe
 
 ## What I Do
 
-💻 **Frontend Developer:** Build responsive, accessible React apps and Node/Express backends.
+**Frontend Developer:** Build responsive, accessible React apps and Node/Express or PHP backends.
 
-🤖 **AI Automation:** Design automation flows (LLMs, scraping, integrations) that reduce manual work and improve business processes.
+**AI Automation:** Design automation flows (LLMs, scraping, integrations) that reduce manual work and improve business processes.
 
-⚡ **Focus:** Clean code, good UX, and measurable impact — I value speed, reliability, and maintainability.
+**Focus:** Clean code, good UX, and measurable impact. I value speed, reliability, and maintainability.
 
-🌱 **Continuous Learner:** I keep up with new tools and trends so I can apply the best solutions for real problems.
+**Continuous Learner:** I keep up with new tools and trends so I can apply the best solutions for real problems.
 
-💼 **Open to Opportunities:** Available for freelance work, internships, and team roles where I can apply frontend + automation skills.
+**Open to Opportunities:** Available for freelance work, internships, and team roles where I can apply frontend + automation skills.
 
 ---
 
 ## Skills & Tech
-**Frontend:** React.js, HTML, CSS, Bootstrap, Tailwind.
-**Backend / Fullstack:** Node.js, Express, MongoDB, REST APIs.
+
+**Frontend:** React.js, HTML, CSS, JavaScript, Bootstrap, Tailwind.
+
+**Backend / Fullstack:** Node.js, Express, REST APIs, PHP.
+
 **Databases:** MySQL, PostgreSQL, MongoDB.
+
 **AI & Automation:**  Zapier, n8n, Make, Airtable, Prompt engineering, OpenAI / Hugging Face integrations, automation scripts.
+
 **Tools:** Git, GitHub, , Vercel / Netlify / Render, Postman.
-**Other:**  Jasmine, Github Actions.
+
+**Other:**  Jasmine, Github Actions, OOP.
 
 ---
 
@@ -49,9 +55,9 @@ I believe thoughtfully used technology powers innovation and improves lives. Whe
 
 2. [Customer Flow Manager](https://agents.autonoms.ai/store/68f8c05debadb900a3805831) — automation that aggregates complaints across platforms and forwards to a single channel (saves ~10 hours/week per user).
 
-3. [Autonoms Store](https://agents.autonoms.ai/store/68f8c05debadb900a3805831) — automations available for purchase. See the store link above.
+3. [Autonoms Store](https://agents.autonoms.ai/store/68f8c05debadb900a3805831) — automations available for purchase.
 
-4. [MSSN NSUK Website](https://github.com/techienuru/MSSN) — team lead building a site for 1,000+ students.
+4. [MSSN NSUK Website](https://github.com/techienuru/MSSN) — team lead and frontend developer andbuilding a site for 1,000+ students.
 
 (See individual project READMEs for demos, screenshots, and setup instructions.)
 
