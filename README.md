@@ -1,6 +1,6 @@
-## Hi there! I am Ibrahim Nurudeen 👋
+## Hi there! I am Nurudeen Ibrahim 👋
 
-I'm Ibrahim Nurudeen Shehu, a Frontend Developer and AI Automation Engineer. I hold a Bachelor of Science degree in Computer Science and specialise in building user-centric interfaces and automation solutions using HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Jasmine, ShadCn, MongoDB, Node.js, Express, PostgreSQL, PHP, MySQL, Git, n8n, Zapier, and Make.
+I'm Nurudeen Ibrahim Shehu, a Frontend Developer and AI Automation Engineer. I hold a Bachelor of Science degree in Computer Science and specialise in building user-centric interfaces and automation solutions using HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Jasmine, ShadCn, MongoDB, Node.js, Express, PostgreSQL, PHP, MySQL, Git, n8n, Zapier, and Make.
 
 Over the years, I’ve taken part in hands-on trainings and hackathons. In 2025, I was a Cohort 3 fellow with 3MTT Nigeria, where my team placed 3rd in the Nasarawa State Virtual Hackathon by building JobBridge — a local marketplace for short micro-tasks.
 
@@ -8,7 +8,7 @@ From April to July 2025, I participated in Tech4Dev’s DFA 2.0 Challenge and co
 
 From August to October 2025, I was a trainee in Loubby AI x DivVerse Lab's AI Automation bootcamp, where I built multiple automations. One highlight: a Customer Flow Manager that saves ~10 hours per week per user by collecting complaints from social channels (support email, X, complaint form) and forwarding them to a single complaint channel.
 
-I am also an AI Automation store owner at [Autonoms](https://autonoms.ai/), building automations for businesses and individuals: Store: https://agents.autonoms.ai/store/68f8c05debadb900a3805831
+I am also an AI Automation store owner at [Autonoms AI](https://autonoms.ai/), building automations for businesses and individuals: Store: https://agents.autonoms.ai/store/68f8c05debadb900a3805831
 
 Currently, I work as a freelance Frontend Developer, and I serve as Team Lead for MSSN NSUK Chapter, building a site to support 1,000+ students at Nasarawa State University Keffi (NSUK).
 
