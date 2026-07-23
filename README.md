@@ -2,7 +2,9 @@
 
 I'm Nurudeen Ibrahim Shehu, a Frontend Developer and AI Automation Engineer. I hold a Bachelor of Science degree in Computer Science and specialise in building user-centric interfaces and automation solutions using HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Jasmine, ShadCn, MongoDB, Node.js, Express, PostgreSQL, PHP, MySQL, Git, n8n, Zapier, and Make.
 
-Over the years, I’ve taken part in hands-on trainings and hackathons. In 2025, I was a Cohort 3 fellow with 3MTT Nigeria, where my team placed 3rd in the Nasarawa State Virtual Hackathon by building JobBridge — a local marketplace for short micro-tasks.
+Over the years, I’ve taken part in hands-on trainings and hackathons and built a ton of projects. In 2024, I built 10+ final-year project softwares — including hospital appointment booking, learning management system, pension information, and student clearance systems — which I provided to other final-year students as ready-to-use academic projects. 
+
+In 2025, I was a Cohort 3 fellow with 3MTT Nigeria, where my team placed 3rd in the Nasarawa State Virtual Hackathon by building JobBridge — a local marketplace for short micro-tasks.
 
 From April to July 2025, I participated in Tech4Dev’s DFA 2.0 Challenge and completed a proctored online exam with strict measures.
 
@@ -10,7 +12,7 @@ From August to October 2025, I was a trainee in Loubby AI x DivVerse Lab's AI Au
 
 I am also an AI Automation store owner at [Autonoms AI](https://autonoms.ai/), building automations for businesses and individuals: Store: https://agents.autonoms.ai/store/68f8c05debadb900a3805831
 
-Currently, I work as a freelance Frontend Developer, and I serve as Team Lead for MSSN NSUK Chapter, building a site to support 1,000+ students at Nasarawa State University Keffi (NSUK).
+Currently, I am improving ERP/CRM/subscription systems as a Frontend Developer Intern at [**Dotmac Technology**](https://dotmac.ng/). I am co-founding [**ProjectHub**](https://www.projecthub.ng/), a platform supporting 1,000+ students at Nasarawa State University, Keffi (NSUK).
 
 I believe thoughtfully used technology powers innovation and improves lives. Whether collaborating or working independently, I aim to deliver results that exceed expectations.
 
