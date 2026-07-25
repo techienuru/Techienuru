@@ -4,13 +4,13 @@ I'm Nurudeen Ibrahim Shehu, a Frontend Developer and AI Automation Engineer. I h
 
 Over the years, I’ve taken part in hands-on trainings and hackathons and built a ton of projects. In 2024, I built 10+ final-year project softwares — including hospital appointment booking, learning management system, pension information, and student clearance systems — which I provided to other final-year students as ready-to-use academic projects. 
 
-In 2025, I was a Cohort 3 fellow with 3MTT Nigeria, where my team placed 3rd in the Nasarawa State Virtual Hackathon by building JobBridge — a local marketplace for short micro-tasks.
+In 2025, I was a Cohort 3 fellow with 3MTT Nigeria, where I  my team placed 3rd in the Nasarawa State Virtual Hackathon by building JobBridge — a local marketplace for short micro-tasks. That same year, I completed an 8-month full-stack web development training with [Darey.io](https://darey.io/), sharpening my skills across the full development stack.
 
-From April to July 2025, I participated in Tech4Dev’s DFA 2.0 Challenge and completed a proctored online exam with strict measures.
+From April to July 2025, I participated in [Tech4Dev’s](https://tech4dev.com/) [DFA 2.0 Challenge](https://digitalforall.tech4dev.com/) and completed a proctored online exam with strict measures.
 
-From August to October 2025, I was a trainee in Loubby AI x DivVerse Lab's AI Automation bootcamp, where I built multiple automations. One highlight: a Customer Flow Manager that saves ~10 hours per week per user by collecting complaints from social channels (support email, X, complaint form) and forwarding them to a single complaint channel.
+From August to October 2025, I was a trainee in [Loubby AI](https://www.loubby.ai/) x [DivVerse Lab's](https://divverse.com/) AI Automation bootcamp, where I built multiple automations. One highlight: a Customer Flow Manager that saves ~10 hours per week per user by collecting complaints from social channels (support email, X, complaint form) and forwarding them to a single complaint channel.
 
-I am also an AI Automation store owner at [Autonoms AI](https://autonoms.ai/), building automations for businesses and individuals: Store: https://agents.autonoms.ai/store/68f8c05debadb900a3805831
+I am also an AI Automation store owner at [Autonoms AI](https://autonoms.ai/), building automations for businesses and individuals: Store: [https://agents.autonoms.ai/store/68f8c05debadb900a3805831](https://agents.autonoms.ai/store/68f8c05debadb900a3805831)
 
 Currently, I am improving ERP/CRM/subscription systems as a Frontend Developer Intern at [**Dotmac Technology**](https://dotmac.ng/). I am co-founding [**ProjectHub**](https://www.projecthub.ng/), a platform supporting 1,000+ students at Nasarawa State University, Keffi (NSUK).
 
