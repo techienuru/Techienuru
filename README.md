@@ -45,7 +45,7 @@ I believe thoughtfully used technology powers innovation and improves lives. Whe
 
 **AI & Automation:**  Zapier, n8n, Make, Airtable, Prompt engineering, OpenAI / Hugging Face integrations, automation scripts.
 
-**Tools:** Git, GitHub, , Vercel / Netlify / Render, Postman.
+**Tools:** Git, GitHub, Vercel / Netlify / Render, Postman, Thunder Client.
 
 **Other:**  Jasmine, Github Actions, OOP.
 
@@ -59,7 +59,7 @@ I believe thoughtfully used technology powers innovation and improves lives. Whe
 
 3. [Autonoms Store](https://agents.autonoms.ai/store/68f8c05debadb900a3805831) — automations available for purchase.
 
-4. [MSSN NSUK Website](https://github.com/techienuru/MSSN) — team lead and frontend developer andbuilding a site for 1,000+ students.
+4. [ProjectHub NG](https://github.com/Ibn-muaz/projecthub) — co-founder and frontend developer, building a site for 1,000+ students.
 
 (See individual project READMEs for demos, screenshots, and setup instructions.)
 
@@ -73,6 +73,7 @@ I believe thoughtfully used technology powers innovation and improves lives. Whe
 
 ## Connect with Me
 
+- **Digital CV:** [Chat with my digital cv](http://nurudeenshehu.cv/)
 - **LinkedIn:** [Ibrahim Nurudeen Shehu](https://www.linkedin.com/in/ibrahim-nurudeen-375b55267/)
 - **Twitter:** [@techienuru](https://x.com/techienuru)
 - **Portfolio:** [techienuru.com.ng](https://techienuru.com.ng/)
