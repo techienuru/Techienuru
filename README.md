@@ -8,7 +8,7 @@ In 2025, I was a Cohort 3 fellow with 3MTT Nigeria, where I  my team placed 3rd 
 
 From April to July 2025, I participated in [Tech4Dev’s](https://tech4dev.com/) [DFA 2.0 Challenge](https://digitalforall.tech4dev.com/) and completed a proctored online exam with strict measures.
 
-From August to October 2025, I was a trainee in [Loubby AI](https://www.loubby.ai/) x [DivVerse Lab's](https://divverse.com/) AI Automation bootcamp, where I built multiple automations. One highlight: a Customer Flow Manager that saves ~10 hours per week per user by collecting complaints from social channels (support email, X, complaint form) and forwarding them to a single complaint channel.
+From August to October 2025, I was a trainee in [Loubby AI](https://www.loubby.ai/) x [DivVerse Lab's](https://divverse.com/) AI Automation bootcamp, where I built multiple automations. One highlight: a Customer Issue Tracker & Escalation System that saves ~10 hours per week per user by collecting complaints from social channels (support email, X, complaint form) and forwarding them to a single complaint channel.
 
 I am also an AI Automation store owner at [Autonoms AI](https://autonoms.ai/), building automations for businesses and individuals: Store: [https://agents.autonoms.ai/store/68f8c05debadb900a3805831](https://agents.autonoms.ai/store/68f8c05debadb900a3805831)
 
@@ -55,7 +55,7 @@ I believe thoughtfully used technology powers innovation and improves lives. Whe
 
 1. [JobBridge](https://github.com/techienuru/JobBridge) (3MTT Hackathon) — local micro-task marketplace (team project; 3rd place — Nasarawa State).
 
-2. [Customer Flow Manager](https://agents.autonoms.ai/store/68f8c05debadb900a3805831) — automation that aggregates complaints across platforms and forwards to a single channel (saves ~10 hours/week per user).
+2. [Customer Issue Tracker & Escalation System](https://docs.google.com/document/d/1GoamrVEZRPIFDYYySTiOaVNKdgOk_i2oHlF8B1BfCTU/edit?usp=sharing) — automation that aggregates complaints across platforms and forwards to a single channel (saves ~10 hours/week per user).
 
 3. [Autonoms Store](https://agents.autonoms.ai/store/68f8c05debadb900a3805831) — automations available for purchase.
 
